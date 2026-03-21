@@ -28,7 +28,6 @@ Emulator: QEMU
 
 ## Roadmap
 - [Done] Set up a GitHub repository (folder structure, .gitignore) 
-- [] Configure a cross-compiler (x86_64-elf-gcc)
 - [] Configure a bootloader (e.g., Limine)
 - [] First C kernel: Display "Hello World" on the screen
 - [] Configure interrupts (GDT and IDT)
